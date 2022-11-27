@@ -10,11 +10,11 @@ Para acceder a mi sitio web emplea el siguiente enlace:
 
 Para el desarrollo de la web se han empleado las siguientes tecnologías:
 
-<strong>    - HTML</strong>
-<strong>    - JavaScript</strong>
-<strong>    - CSS</strong>
-<strong>    - JQuery</strong>
-<strong>    - Github Pages</strong>
+<strong> * HTML</strong>
+<strong> * JavaScript</strong>
+<strong> * CSS</strong>
+<strong> * JQuery</strong>
+<strong> * Github Pages</strong>
 
 Además, el posicionamiento SEO del sitio web se ha realizado empleando las siguientes tecnologías y herramientas:
 
