@@ -5,5 +5,4 @@ Disallow: /css/
 Disallow: /fonts/
 Disallow: /images/
 Disallow: /js/
-Disallow: /php/
 Disallow: /README.md
