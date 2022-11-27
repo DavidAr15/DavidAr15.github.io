@@ -1,0 +1,9 @@
+Sitemap: https://jairoxd98.github.io/sitemap.xml
+
+User-agent: *
+Disallow: /css/
+Disallow: /fonts/
+Disallow: /images/
+Disallow: /js/
+Disallow: /php/
+Disallow: /README.md
