@@ -1,4 +1,4 @@
-Sitemap: https://davidar15.github.io/sitemap.xml/
+Sitemap: https://davidar15.github.io/sitemap.xml
 
 User-agent: *
 Disallow: /css/
