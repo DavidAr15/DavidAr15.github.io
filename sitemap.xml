@@ -10,7 +10,13 @@
 <url>
   <loc>https://davidar15.github.io/</loc>
   <lastmod>2022-11-27T10:55:27+00:00</lastmod>
+  <priority>1.00</priority>
 </url>
 
+<url>
+  <loc>https://1drv.ms/b/s!AqfD_9e7kzJ69HpIGPBCGUBWQmZe?e=McXLdt</loc>
+  <lastmod>2022-11-27T12:15:00+00:00</lastmod>
+  <priority>0.85</priority>
+</url>
 
 </urlset>
