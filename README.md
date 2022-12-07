@@ -24,6 +24,8 @@ Además, el posicionamiento SEO del sitio web se ha realizado empleando las sigu
 
  * __Google Search Console:__ empleado para optimizar la indexación de mi sitio web en los resultados de búsqueda y aumentar así su visibilidad, atrayendo al mayor número de usuarios posible a mi sitio web.
 
+  * __SEO QUAKE:__ extensión para navegadores que se ha empleado para obtener información sobre todo tipo de parámetros SEO de la página web, y así poder conocer como mejorar el diseño y la usabilidad del sitio web.
+
  * __sitemap.xml:__ empleado para recoger las urls presentes en mi sitio web, de manera que a los buscadores no les cueste trabajo acceder a ellas.
 
  * __robots.txt:__ se ha utilizado para evitar que la información innecesaria salga en los resultados de búsqueda, impidiendo que los bots que analizan páginas web los incorporen a dichos resultados.
